@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abdul sinan sk
 - 🏕️ 23 year old
-- 🌱 I’m currently working at edsstem technologies
+- 🌱 I’m currently working at edstem technologies
 - 🐾 frontend developer:react js
 - 😊 completed mern stack intership
 - 📫 How to reach me:- abdulsinan8@gmail.com
