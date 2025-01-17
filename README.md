@@ -1,5 +1,8 @@
 - 👋 Hi, I’m abdul sinan sk
-- 🌱 I’m currently learning  mern stack.
+- 🏕️ 23 year old
+- 🌱 I’m currently working at edsstem technologies
+- 🐾 frontend developer:react js
+- 😊 completed mern stack intership
 - 📫 How to reach me:- abdulsinan8@gmail.com
 - 
 <!---
